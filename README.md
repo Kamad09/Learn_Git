@@ -27,6 +27,3 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 - Roll No.: 2019010052211
 - Interests: wanted to learn about coding 
 
-- Name: Kamad Nayyar
-- Roll No.: 113
-- Interests: Big Data, Web Development
