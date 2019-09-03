@@ -29,4 +29,4 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 - Name: Kamad Nayyar
 - Roll No.: 113
-- Interests: Big Data, Web Development
+- Interests: Big Data
